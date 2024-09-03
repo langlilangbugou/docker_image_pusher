@@ -7,6 +7,8 @@ xhofe/alist:latest
 rustdesk/rustdesk-server:latest
 
 mtphotos/mt-photos:latest
+rustdesk/rustdesk-server:latest
+
 
 
 
