@@ -1,7 +1,7 @@
 nginx
 #支持私库 
-# docker login --username=username@gmail.com registry-intl.cn-hongkong.aliyuncs.com
-# docker123.
+# docker login --username=langlilangbugou@gmail.com registry-intl.cn-hongkong.aliyuncs.com
+# Cwfdocker123.
 # docker pull registry-intl.cn-hongkong.aliyuncs.com/ggbond_name_space/rustdesk-server
 # registry-intl.cn-hongkong.aliyuncs.com/ggbond_name_space
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
