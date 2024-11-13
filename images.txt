@@ -11,7 +11,7 @@ rustdesk/rustdesk-server:latest
 
 mtphotos/mt-photos:latest
 
-
+gdy666/lucky:latest
 
 
 
